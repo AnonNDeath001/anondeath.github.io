@@ -1,7 +1,10 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 559px;
 }
 
-.u-section-1 .u-text-1 {
-  margin: 60px auto;
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 499px;
+  width: 295px;
+  margin: 0 auto 60px;
 }
